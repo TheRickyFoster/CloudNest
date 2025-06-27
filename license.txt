@@ -1,0 +1,5 @@
+Guardian Trust IP – Public Planetary Use License
+
+This project may be used freely for humanitarian, educational, and planetary repair purposes.
+No resale or commercialization without written approval.
+Must retain attribution and license notice in all copies or substantial portions of the software.
